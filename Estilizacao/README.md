@@ -54,3 +54,32 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Header
+<img width="471" height="104" alt="{676F6F46-FC70-437B-85AA-2D4BC60640E0}" src="https://github.com/user-attachments/assets/ab1ce779-8a6d-4ef9-946e-ce71b3d0d0e5" />
+
+## Estatisticas 
+<img width="415" height="49" alt="{534E7ECE-1869-4142-9A90-90CD107BD70D}" src="https://github.com/user-attachments/assets/51cae17c-3c9b-4e51-a24c-c7f6e127f90d" />
+
+## Interesses
+<img width="387" height="83" alt="{4534FD7A-0E75-41C7-B357-946D40C9613D}" src="https://github.com/user-attachments/assets/84a2f613-55d5-45bd-b3fb-68613dffbc73" />
+
+## Publicações 
+<img width="413" height="255" alt="{C494F8A4-4E8C-4FDE-9383-6F1F6D83F656}" src="https://github.com/user-attachments/assets/29607f03-8460-4db1-b566-260f687484b0" />
+
+## Rodapé
+<img width="416" height="62" alt="{DF640E25-EF02-48A0-B9C1-3F452592CD16}" src="https://github.com/user-attachments/assets/8b20411c-cdd1-401a-b2da-d658d190185b" />
+
+## Tudo
+<img width="410" height="844" alt="{D0FD09AA-1DAE-41F8-880D-6FD6E5689C6B}" src="https://github.com/user-attachments/assets/d6c397b9-ad85-4086-868f-c495b2715d59" />
+
+
+
+
+
+
+
+
+
+
+
